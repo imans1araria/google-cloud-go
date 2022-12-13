@@ -2,6 +2,13 @@
 
 
 
+## [1.45.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.44.0...bigquery/v1.45.0) (2022-12-13)
+
+
+### Features
+
+* **bigquery:** rewrite signatures and type in terms of new location ([620e6d8](https://github.com/googleapis/google-cloud-go/commit/620e6d828ad8641663ae351bfccfe46281e817ad))
+
 ## [1.44.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.43.0...bigquery/v1.44.0) (2022-11-30)
 
 
