@@ -1,6 +1,13 @@
 # Changes
 
 
+## [1.28.2](https://github.com/googleapis/google-cloud-go/compare/storage/v1.28.1...storage/v1.28.2) (2022-12-13)
+
+
+### Documentation
+
+* **storage/internal:** Corrected typos and spellings ([7357077](https://github.com/googleapis/google-cloud-go/commit/735707796d81d7f6f32fc3415800c512fe62297e))
+
 ## [1.28.1](https://github.com/googleapis/google-cloud-go/compare/storage/v1.28.0...storage/v1.28.1) (2022-12-02)
 
 
