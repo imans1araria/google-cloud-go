@@ -1,5 +1,12 @@
 # Changes
 
+## [0.4.0](https://github.com/googleapis/google-cloud-go/compare/errorreporting/v0.3.0...errorreporting/v0.4.0) (2022-12-13)
+
+
+### Features
+
+* **errorreporting:** rewrite signatures and type in terms of new location ([620e6d8](https://github.com/googleapis/google-cloud-go/commit/620e6d828ad8641663ae351bfccfe46281e817ad))
+
 ## [0.3.0](https://github.com/googleapis/google-cloud-go/compare/errorreporting/v0.2.0...errorreporting/v0.3.0) (2022-11-17)
 
 
