@@ -1,5 +1,13 @@
 # Changes
 
+## [1.11.0](https://github.com/googleapis/google-cloud-go/compare/datastore/v1.10.0...datastore/v1.11.0) (2022-12-13)
+
+
+### Features
+
+* **datastore:** Return Get, GetMulti, Put and PutMulti errors with enhanced details ([#7061](https://github.com/googleapis/google-cloud-go/issues/7061)) ([c82b63a](https://github.com/googleapis/google-cloud-go/commit/c82b63ae9e2f24fff6f8c428c2444df679fed479))
+* **datastore:** rewrite signatures and type in terms of new location ([620e6d8](https://github.com/googleapis/google-cloud-go/commit/620e6d828ad8641663ae351bfccfe46281e817ad))
+
 ## [1.10.0](https://github.com/googleapis/google-cloud-go/compare/datastore/v1.9.0...datastore/v1.10.0) (2022-11-29)
 
 
