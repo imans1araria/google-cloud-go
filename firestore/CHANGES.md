@@ -1,5 +1,12 @@
 # Changes
 
+## [1.10.0](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.9.0...firestore/v1.10.0) (2022-12-13)
+
+
+### Features
+
+* **firestore:** rewrite signatures and type in terms of new location ([620e6d8](https://github.com/googleapis/google-cloud-go/commit/620e6d828ad8641663ae351bfccfe46281e817ad))
+
 ## [1.9.0](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.8.0...firestore/v1.9.0) (2022-11-29)
 
 
