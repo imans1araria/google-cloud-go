@@ -1,5 +1,12 @@
 # Changes
 
+## [1.7.0](https://github.com/googleapis/google-cloud-go/compare/logging/v1.6.1...logging/v1.7.0) (2022-12-13)
+
+
+### Features
+
+* **logging:** rewrite signatures and type in terms of new location ([620e6d8](https://github.com/googleapis/google-cloud-go/commit/620e6d828ad8641663ae351bfccfe46281e817ad))
+
 ## [1.6.1](https://github.com/googleapis/google-cloud-go/compare/logging/v1.6.0...logging/v1.6.1) (2022-12-02)
 
 
